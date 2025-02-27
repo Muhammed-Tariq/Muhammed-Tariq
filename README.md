@@ -1,5 +1,4 @@
 ## 👋 Hi, I'm Muhammed.
----
 - 🌱 I’m currently trying to learn how to build a website! If I'm successful, you should see something [here](http://muhammedtariq.com/).
 - 🔭 I’m perpetually swamped with schoolwork, although I try to do great things with my time. This is one example!
 - 📫 You can reach me:
