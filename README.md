@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Muhammed.
-- 🌱 I’m currently trying to learn how to build a website! If I'm successful, you should see something [here](http://muhammedtariq.com/).
-- 🔭 I’m perpetually swamped with schoolwork, although I try to do good things with my time. This is one example!
+- 🌱 See my [personal website](http://muhammedtariq.com/) for more on me (I should really update it...).
+- 🔭 I’m perpetually swamped with schoolwork, although I try to do good things with my time.
 - 📫 You can reach me:
   - on my [LinkedIn](https://www.linkedin.com/in/muhammed5371/);
   - through email, at `@seriauora@gmail.com`;
