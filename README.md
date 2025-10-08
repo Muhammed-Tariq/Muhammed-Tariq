@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Muhammed.
-- 🌱 See my [personal website](http://muhammedtariq.com/) for more on me (I should really update it...).
+- 🌱 See my [personal website](http://muhammedtariq.com/) for more on me (which should really be updated).
 - 🔭 I’m perpetually swamped with schoolwork, although I try to do good things with my time.
 - 📫 You can reach me:
   - on my [LinkedIn](https://www.linkedin.com/in/muhammed5371/);
